@@ -16,9 +16,7 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
   - [Checkout](#checkout)
 - [Contributing](#contributing)
 
-
 ## Features
-
 
 1. **User Authentication:**
    - Sign up for a new account.
@@ -47,13 +45,25 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 - Node.js and npm installed on your machine.
 
 ### Installation
-1. Clone the repository: `https://github.com/shauryadhaka0027/useEffect.git`
-2. Navigate to the project directory: `http://shaurya-e-commerce-website.netlify.app/`
-3. Install dependencies: `npm install`
-4. Start the application: `npm start dev`
+1. Clone the repository: 
+    ```bash
+    git clone https://github.com/shauryadhaka0027/useEffect.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd useEffect
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+4. Start the application:
+    ```bash
+    npm run dev
+    ```
 
 ## Usage
-![Screenshot 2024-07-31 183212](https://github.com/user-attachments/assets/909881a8-4775-4b58-82be-b9d8c40c63b9)
+![Product Listing](https://github.com/user-attachments/assets/909881a8-4775-4b58-82be-b9d8c40c63b9)
 
 ### User Authentication
 
@@ -61,7 +71,7 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 - Log in with your credentials to access personalized features.
 
 ### Product Listing
-![Screenshot 2024-07-31 183212](https://github.com/user-attachments/assets/909881a8-4775-4b58-82be-b9d8c40c63b9)
+![Product Listing](https://github.com/user-attachments/assets/909881a8-4775-4b58-82be-b9d8c40c63b9)
 
 - Browse the list of available products on the main page.
 
@@ -73,16 +83,15 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 
 - Click on a product to view detailed information.
 
-
-
 ### Shopping Cart
-![Screenshot 2024-07-31 183312](https://github.com/user-attachments/assets/6e1a2e84-1d4f-45d7-8eda-508bb5efb4c5)
+![Shopping Cart](https://github.com/user-attachments/assets/6e1a2e84-1d4f-45d7-8eda-508bb5efb4c5)
+
 - Add products to the shopping cart using the "Add to Cart" button.
 - View items in the shopping cart on the cart page.
 - Remove items from the shopping cart.
 
 ### Checkout
-![Screenshot 2024-07-31 183337](https://github.com/user-attachments/assets/88604118-7536-4893-802b-805daef020b1)
+![Checkout](https://github.com/user-attachments/assets/88604118-7536-4893-802b-805daef020b1)
 
 - Proceed to checkout from the shopping cart page.
 - Enter shipping and payment information.
@@ -91,12 +100,3 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 ## Contributing
 
 We welcome contributions! Feel free to submit issues and pull requests.
-
-
-
-
-
-![Screenshot 2024-07-31 183748](https://github.com/user-attachments/assets/216bfe1e-f4f5-4fb5-842b-f3f6b08bda6e)
-
-
-
