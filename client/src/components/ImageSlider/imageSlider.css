@@ -1,0 +1,24 @@
+/* Customize the carousel arrows */
+.custom-carousel .slick-prev,
+.custom-carousel .slick-next {
+  font-size: 4rem; /* Increase the size of the arrow */
+  background: rgba(0, 0, 0, 0.5); /* Add a background color */
+  color: white; /* Change arrow color */
+  border-radius: 50%; /* Make arrows circular */
+  width: 10rem; /* Width of the arrow button */
+  height: 3rem; /* Height of the arrow button */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.custom-carousel .slick-prev {
+  left: -1.5rem; /* Adjust the left margin */
+}
+
+.custom-carousel .slick-next {
+  right: -1.5rem; /* Adjust the right margin */
+}

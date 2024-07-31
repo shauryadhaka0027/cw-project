@@ -1,0 +1,557 @@
+[{
+  "_id": {
+    "$oid": "66a4ba7e41f53fd682c972d9"
+  },
+  "productName": "Lipstick",
+  "price": "359",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMatte-As-Hell-Mini-Crayon-Lipstick.jpg%3Fv%3D1719896634&w=256&q=75",
+  "desc": "Matte As Hell Mini Crayon",
+  "shade": "6 Shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bb4641f53fd682c972db"
+  },
+  "productName": "Lipstick",
+  "price": "679",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMatte-As-Hell-Crayon-Lipstick.jpg%3Fv%3D1719830473&w=256&q=75",
+  "desc": "Matte As Hell Crayon Lipstick - 01 Scarlett O'Hara (Red) | 2.8 gm",
+  "shade": "34 Shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bb6d41f53fd682c972dd"
+  },
+  "productName": "Lipstick",
+  "price": "599",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMatte-Attack-Transferproof-Lipstick.jpg%3Fv%3D1719855043&w=256&q=75",
+  "desc": "Matte Attack Transferproof Lipstick - 01 Boldplay (Cardinal Pink)",
+  "shade": "22 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bbac41f53fd682c972df"
+  },
+  "productName": "Lipstick",
+  "price": "799",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMatte-As-Hell-Crayon-Lipstick-Minis-Set-of-3.jpg%3Fv%3D1719867590&w=256&q=75",
+  "desc": "Matte As Hell Crayon Lipstick Minis Set of 3",
+  "shade": "2 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bbdd41f53fd682c972e1"
+  },
+  "productName": "Nail",
+  "price": "159",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FTip-Tac-Toe-Nail-Lacquer-Classic_905a90bf-667b-4626-98f3-575f08feb5ab.jpg%3Fv%3D1719890300&w=256&q=75",
+  "desc": "Tip Tac Toe Nail Lacquer Classic - 01 Pink Positive",
+  "shade": "32 Shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bbfb41f53fd682c972e3"
+  },
+  "productName": "Lipstick",
+  "price": "444",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FFigma-banner-1-1-600x500-ezgif.com-optimize_1.gif%3Fv%3D1718014347&w=256&q=75",
+  "desc": "Mousse Muse Lip Cream - 01 Backlit Nude",
+  "shade": "14 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bc4041f53fd682c972e5"
+  },
+  "productName": "Cream",
+  "price": "340",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FRage-For-Coverage-Foundation.jpg%3Fv%3D1719868297&w=256&q=75",
+  "desc": "Rage For Coverage Foundation - 10 Latte (Light, Warm Undertone)",
+  "shade": "15s hade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bc6141f53fd682c972e7"
+  },
+  "productName": "Lipstick",
+  "price": "399",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSmudge-Me-Not-Liquid-Lipstick.jpg%3Fv%3D1719832110&w=256&q=75",
+  "desc": "Smudge Me Not Liquid Lipstick - 01 Brazen Raisin (Burgundy)",
+  "shade": "47 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bc9541f53fd682c972e9"
+  },
+  "productName": "Compact",
+  "price": "439",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FDream-Cover-SPF15-Mattifying-Compact-15-Cappuccino-light-medium.jpg%3Fv%3D1719842268&w=256&q=75",
+  "desc": " Dream Cover SPF15 Mattifying Compact - 15 Cappuccino (light-medium)",
+  "shade": "15 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bcf041f53fd682c972eb"
+  },
+  "productName": "Comfact",
+  "price": "439",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FDream-Cover-SPF15-Mattifying-Compact-10-Latte-light.jpg%3Fv%3D1719842240&w=256&q=75",
+  "desc": "Dream Cover SPF15 Mattifying Compact - 10 Latte (light)",
+  "shade": "6 Shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bd2641f53fd682c972ed"
+  },
+  "productName": "Foundation",
+  "price": "383",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FAce-Of-Face-Mini-Foundation-Stick-7-gms.jpg%3Fv%3D1719880090&w=256&q=75",
+  "desc": "Ace Of Face Mini Foundation Stick - 7 gms - 25 Macchiato (Light Medium, Olive Undertone)",
+  "shade": "10 Shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bd5a41f53fd682c972ef"
+  },
+  "productName": "Foundation",
+  "price": "919",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FAce-Of-Face-Foundation-Stick.jpg%3Fv%3D1719836444&w=256&q=75",
+  "desc": "Ace Of Face Foundation Stick - 10 Latte (Light Warm - Undertone)",
+  "shade": "10 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bd9c41f53fd682c972f1"
+  },
+  "productName": "Compact",
+  "price": "519",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FAll-Set-To-Go-Banana-Powder.jpg%3Fv%3D1719853829&w=256&q=75",
+  "desc": "All Set To Go Banana Powder ",
+  "shade": "2 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bdd341f53fd682c972f3"
+  },
+  "productName": "Mascara",
+  "price": "399",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FBlacklash-Volumizing-Mascara-01-Black-Up.jpg%3Fv%3D1719892096&w=256&q=75",
+  "desc": "Blacklash Volumizing Mascara - 01 Black Up",
+  "shade": "7 Shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bdfb41f53fd682c972f5"
+  },
+  "productName": "Comfact",
+  "price": "639",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FContour-De-Force-Face-Palette.jpg%3Fv%3D1719835465&w=256&q=75",
+  "desc": "Contour De Force Face Palette - 01 Subtle Summit",
+  "shade": "12 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4be2841f53fd682c972f7"
+  },
+  "productName": "Compact",
+  "price": "519",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FAll-Set-To-Go-Translucent-Powder.jpg%3Fv%3D1719839341&w=256&q=75",
+  "desc": "All Set To Go Translucent Powder",
+  "shade": "6 Shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4be6041f53fd682c972f9"
+  },
+  "productName": "Mascara",
+  "price": "420",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FArch-Arrival-Brow-Definer.jpg%3Fv%3D1719834107&w=256&q=75",
+  "desc": "Arch Arrival Brow Definer - 01 Jerry Brown (Medium Brown)",
+  "shade": "12 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4be9d41f53fd682c972fb"
+  },
+  "productName": "Compact",
+  "price": "439",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FDream-Cover-SPF15-Mattifying-Compact-30-Chococcino-medium.jpg%3Fv%3D1719842296&w=256&q=75",
+  "desc": "Dream Cover SPF15 Mattifying Compact - 30 Chococcino (medium)",
+  "shade": "10 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bec241f53fd682c972fd"
+  },
+  "productName": "Compact",
+  "price": "519",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FPowder-Play-Banana-Compact.jpg%3Fv%3D1719855768&w=256&q=75",
+  "desc": "Powder Play Banana Compact",
+  "shade": "10 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bef341f53fd682c972ff"
+  },
+  "productName": "Compact",
+  "price": "300",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FContour-De-Force-Mini-Blush.jpg%3Fv%3D1719835500&w=256&q=75",
+  "desc": "Contour De Force Mini Blush - 01 Peach Peak (Soft Peach Pink)",
+  "shade": "5 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bf1641f53fd682c97301"
+  },
+  "productName": "Foundation",
+  "price": "340",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FRage-For-Coverage-Foundation-10-Latte-Light-Warm-Undertone.jpg%3Fv%3D1719868157&w=256&q=75",
+  "desc": "Rage For Coverage Foundation - 10 Latte (Light, Warm Undertone)",
+  "shade": "12 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bf3b41f53fd682c97303"
+  },
+  "productName": "Foundation",
+  "price": "639",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FGoddess-Of-Flawless-BB-Cream.jpg%3Fv%3D1719852548&w=256&q=75",
+  "desc": "Goddess Of Flawless BB Cream - 15 Cappuccino (Light)",
+  "shade": "7 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bf6741f53fd682c97305"
+  },
+  "productName": "Compact",
+  "price": "344",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FContour-De-Force-Mini-Bronzer.jpg%3Fv%3D1719835583&w=256&q=75",
+  "desc": "Contour De Force Mini Bronzer - 02 Woody Wonder (Warm Brown)",
+  "shade": "10 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bf9241f53fd682c97307"
+  },
+  "productName": "Mascara",
+  "price": "300",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FGraphic-Jam-36HR-Eyeliner-01-Blackest-Black.jpg%3Fv%3D1719863074&w=256&q=75",
+  "desc": "Graphic Jam 36HR Eyeliner - 01 Blackest Black",
+  "shade": "13 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": {
+    "$oid": "66a4bfcb41f53fd682c97309"
+  },
+  "productName": "Lipstick",
+  "price": "599",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMatte-Attack-Transferproof-Lipstick-01-Boldplay-Cardinal-Pink.jpg%3Fv%3D1719855138&w=256&q=75",
+  "desc": "Matte Attack Transferproof Lipstick - 01 Boldplay (Cardinal Pink)",
+  "shade": "12 shade",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972f2",
+  "productName": "Longwear Lipstick",
+  "price": "399",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FNothing-Else-Matter-Longwear-Lipstick-12-Teak-Over-Purple-Brown-Brown-Burgundy.jpg%3Fv%3D1719850317&w=256&q=75",
+  "desc": "Nothing Else Matter Longwear Lipstick",
+  "shade": "Teak Over",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972ea",
+  "productName": "Longwear Lipstick",
+  "price": "399",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FNothing-Else-Matter-Longwear-Lipstick-18-Scarlet-Letter-Pure-Red.jpg%3Fv%3D1719850483&w=256&q=75",
+  "desc": "Nothing Else Matter Longwear Lipstick",
+  "shade": "Scarlet Letter",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972e4",
+  "productName": "Nail Lacquer",
+  "price": "299",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FTip-Tac-Toe-Nail-Lacquer-Classic-05-Social-Sepia.jpg%3Fv%3D1719890678&w=256&q=75",
+  "desc": "Tip Tac Toe Nail Lacquer",
+  "shade": "Social Sepia",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972f3",
+  "productName": "Nail Lacquer",
+  "price": "299",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FTip-Tac-Toe-Nail-Lacquer-Classic-01-Pink-Positive.jpg%3Fv%3D1719890556&w=256&q=75",
+  "desc": "Tip Tac Toe Nail Lacquer",
+  "shade": "Pink Positive",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972e3",
+  "productName": "Nail Lacquer",
+  "price": "299",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FTip-Tac-Toe-Nail-Lacquer-Classic-11-Lilac-Lustre.jpg%3Fv%3D1719890861&w=256&q=75",
+  "desc": "Tip Tac Toe Nail Lacquer",
+  "shade": "Lilac Lustre",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972e1",
+  "productName": "Brow Definer",
+  "price": "359",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FArch-Arrival-Brow-Definer-02-Taupe-Tom-Grey-Brown.jpg%3Fv%3D1719834178&w=256&q=75",
+  "desc": "Arch Arrival Brow Definer",
+  "shade": "Taupe Tom",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972ef",
+  "productName": "Longwear Lipstick",
+  "price": "399",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FNothing-Else-Matter-Longwear-Lipstick-14-Red-Herring-Raspberry-Pink-Reddish-Pink.jpg%3Fv%3D1719850370&w=256&q=75",
+  "desc": "Nothing Else Matter Longwear Lipstick",
+  "shade": "Red Herring",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972ee",
+  "productName": "Nail Lacquer",
+  "price": "299",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FTip-Tac-Toe-Nail-Lacquer-Classic-10-Coral-Compass.jpg%3Fv%3D1719890831&w=256&q=75",
+  "desc": "Tip Tac Toe Nail Lacquer",
+  "shade": "Coral Compass",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972e6",
+  "productName": "Crayon Lipstick",
+  "price": "499",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMatte-As-Hell-Crayon-Lipstick-01-Scarlett-OHara-Red.jpg%3Fv%3D1719830830&w=256&q=75",
+  "desc": "Matte As Hell Crayon Lipstick",
+  "shade": "Scarlett O'Hara",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972e2",
+  "productName": "Longwear Lipstick",
+  "price": "399",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FNothing-Else-Matter-Longwear-Lipstick-08-Berry-Picking-Berry.jpg%3Fv%3D1719841587&w=256&q=75",
+  "desc": "Nothing Else Matter Longwear Lipstick",
+  "shade": "Berry Picking",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972e9",
+  "productName": "Transferproof Lipstick",
+  "price": "549",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMatte-Attack-Transferproof-Lipstick-06-Spring-Crimson-Crimson-Red.jpg%3Fv%3D1719855291&w=256&q=75",
+  "desc": "Matte Attack Transferproof Lipstick",
+  "shade": "Spring Crimson",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972ec",
+  "productName": "Crayon Lipstick",
+  "price": "499",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMatte-As-Hell-Crayon-Lipstick-13-Murphy-Brown-Chocolate-Burgundy.jpg%3Fv%3D1719834736&w=256&q=75",
+  "desc": "Matte As Hell Crayon Lipstick",
+  "shade": "Murphy Brown",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972f1",
+  "productName": "Nail Lacquer",
+  "price": "299",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FTip-Tac-Toe-Nail-Lacquer-Classic-03-Beat-The-Blues.jpg%3Fv%3D1719890618&w=256&q=75",
+  "desc": "Tip Tac Toe Nail Lacquer",
+  "shade": "Beat The Blues",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972ed",
+  "productName": "Makeup Kit",
+  "price": "1299",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Signature-Makeup-Kit.jpg%3Fv%3D1719901641&w=256&q=75",
+  "desc": "SUGAR Signature Makeup Kit",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972e5",
+  "productName": "Lip Cream",
+  "price": "499",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FMousse-Muse-Lip-Cream-11-The-Salmon.jpg%3Fv%3D1719897512&w=256&q=75",
+  "desc": "Mousse Muse Lip Cream",
+  "shade": "The Salmon",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972f0",
+  "productName": "Foundation Stick",
+  "price": "799",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FAce-Of-Face-Foundation-Stick-40-Breve-Medium-Beige-Warm-Undertone_9e09306d-6ca4-42e4-a6e4-8942d007e00b.jpg%3Fv%3D1719880070&w=256&q=75",
+  "desc": "Ace Of Face Foundation Stick",
+  "shade": "40 Breve",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972e7",
+  "productName": "Makeup Kit",
+  "price": "1299",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FFestive-Makeup-Kit_6f8a978b-8e31-45be-bb24-0ef3700439ef.jpg%3Fv%3D1720798832&w=256&q=75",
+  "desc": "Festive Makeup Kit",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972eb",
+  "productName": "Cleansing Water",
+  "price": "499",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSwipe-Right-Cleansing-Water_da83328e-c91c-4e05-b5db-594ecf05ff51.jpg%3Fv%3D1719842208&w=256&q=75",
+  "desc": "Swipe Right Cleansing Water",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972e8",
+  "productName": "BB Cream",
+  "price": "699",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FGoddess-Of-Flawless-BB-Cream-25-Macchiato-Light-Medium.jpg%3Fv%3D1719852429&w=256&q=75",
+  "desc": "Goddess Of Flawless BB Cream",
+  "shade": "Macchiato Light-Medium",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972fa",
+  "productName": "Liquid Lipstick",
+  "price": "499",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSmudge-Me-Not-Liquid-Lipstick-09-Suave-Mauve-Mauve.jpg%3Fv%3D1719832047&w=256&q=75",
+  "desc": "Smudge Me Not Liquid Lipstick",
+  "shade": "Suave Mauve",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972f7",
+  "productName": "Nail Lacquer",
+  "price": "299",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FTip-Tac-Toe-Nail-Lacquer-Classic-27-Spicy-Sangria.jpg%3Fv%3D1719895497&w=256&q=75",
+  "desc": "Tip Tac Toe Nail Lacquer",
+  "shade": "Spicy Sangria",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972f8",
+  "productName": "Liquid Lipstick",
+  "price": "499",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSmudge-Me-Not-Liquid-Lipstick-02-Brink-Of-Pink-Plum-Rose.jpg%3Fv%3D1719831822&w=256&q=75",
+  "desc": "Smudge Me Not Liquid Lipstick",
+  "shade": "Brink Of Pink",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972fc",
+  "productName": "Nail Lacquer",
+  "price": "299",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FTip-Tac-Toe-Nail-Lacquer-Classic-25-Crimson-Canopy.jpg%3Fv%3D1719895436&w=256&q=75",
+  "desc": "Tip Tac Toe Nail Lacquer",
+  "shade": "Crimson Canopy",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972f6",
+  "productName": "Foundation",
+  "price": "799",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FRage-For-Coverage-24Hr-Foundation-40-Breve-Medium-Beige-Warm-Undertone.jpg%3Fv%3D1719868038&w=256&q=75",
+  "desc": "Rage For Coverage 24Hr Foundation",
+  "shade": "Breve",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972f9",
+  "productName": "Nail Lacquer",
+  "price": "299",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FTip-Tac-Toe-Nail-Lacquer-Classic-18-Cookie-Cutter.jpg%3Fv%3D1719891072&w=256&q=75",
+  "desc": "Tip Tac Toe Nail Lacquer",
+  "shade": "Cookie Cutter",
+  "__v": 0,
+  "userId": "Shaurya"
+},
+{
+  "_id": "66a4ba7e41f53fd682c972fb",
+  "productName": "Lip Gloss",
+  "price": "399",
+  "image": "https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2FSUGAR-Play-Power-Drip-Lip-Gloss-03-Valid.jpg%3Fv%3D1719893499&w=256&q=75",
+  "desc": "SUGAR Play Power Drip Lip Gloss",
+  "shade": "Valid",
+  "__v": 0,
+  "userId": "Shaurya"
+}]

@@ -1,0 +1,25 @@
+.custom-form-item {
+  position: relative;
+  margin-top: 2rem;
+}
+
+.custom-label {
+  position: absolute;
+  top: 50%;
+  left: 1rem;
+  transform: translateY(-50%);
+  background-color: white;
+  padding: 0 0.5rem;
+  transition: top 0.3s, transform 0.3s, font-size 0.3s;
+  pointer-events: none;
+  color: gray;
+  font-size: 1rem;
+}
+
+.custom-form-item input:focus + .custom-label,
+.custom-form-item input:not(:placeholder-shown) + .custom-label {
+  top: -0.5rem;
+  transform: translateY(-100%);
+  font-size: 0.75rem;
+  color: #555;
+}

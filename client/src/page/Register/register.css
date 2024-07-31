@@ -1,0 +1,87 @@
+
+ .custom-form-item {
+  position: relative;
+  margin-bottom: 24px;
+} 
+
+.custom-form-item label {
+    position: absolute;
+    top: -5px;
+    left: 10px;
+    background: white;
+    padding: 0 5px;
+    font-size: 14px;
+    transition: all 0.3s;
+    pointer-events: none;
+  }
+  
+  .custom-form-item input:focus ~ label,
+  .custom-form-item input:not(:placeholder-shown) ~ label {
+    top: -20px;
+    left: 10px;
+    font-size: 12px;
+    color: #1890ff;
+  }
+  
+ .custom-form-item input {
+    padding: 20px 10px 10px 10px;
+  }
+  
+  .custom-form .ant-form-item-control-input {
+    border-radius: 4px;
+    border: 1px solid #d9d9d9;
+    overflow: hidden;
+    transition: border-color 0.3s;
+  }
+  
+   .custom-form .ant-form-item-control-input:hover {
+     border-color: #1890ff;
+   }
+   .ant-form-item-row {
+     position: relative;
+   }
+   .ant-input {
+     border-radius: 10px !important;
+     height: 3rem;
+     font-size: 16px;
+     padding: 8px 40px;
+   }
+   .ant-form-item-label {
+     position: absolute;
+     top: -14px;
+     left: 30px;
+     background: white;
+     /* padding: 0px 5px; */
+     font-size: 14px;
+     transition: all 0.3s;
+     pointer-events: none;
+     z-index: 10;
+   }
+   .ant-form-item-label label {
+     padding-left: 11px;
+   }
+   .ant-form-item-required {
+     z-index: 10;
+   }
+   .ant-form-vertical
+     .ant-form-item:not(.ant-form-item-horizontal)
+     .ant-form-item-label {
+     padding: 0px;
+   }
+   .ant-form-item-explain-error {
+     margin-bottom: 15px;
+     margin-inline: 10px;
+   }
+   input:-webkit-autofill,
+   input:-webkit-autofill:hover, 
+   input:-webkit-autofill:focus, 
+   input:-webkit-autofill:active{
+       -webkit-box-shadow: 0 0 0 30px white inset !important;
+   }
+
+   .custom-button {
+    color: #989797;
+    width: 40rem;
+  }
+  
+ 
