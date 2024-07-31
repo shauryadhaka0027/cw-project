@@ -1,6 +1,6 @@
 import AuthUser from "../model/authuser.js"
 import mailsender from "../utils/sendingEmail.js";
-import jwt from "jsonwebtoken";
+
 
 export const userSignUp = async (req, res) => {
     try {
