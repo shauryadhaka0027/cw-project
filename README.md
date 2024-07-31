@@ -53,14 +53,16 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 4. Start the application: `npm start dev`
 
 ## Usage
-![Homepage product](https://github.com/shauryadhaka0027/useEffect/assets/138813918/f776a3e4-5894-47cb-8bdf-bc88d7bc07f2)
+![Screenshot 2024-07-31 183212](https://github.com/user-attachments/assets/909881a8-4775-4b58-82be-b9d8c40c63b9)
+
 ### User Authentication
 
 - Sign up for a new account using the provided form.
 - Log in with your credentials to access personalized features.
 
 ### Product Listing
-![Products](https://github.com/shauryadhaka0027/useEffect/assets/138813918/40c1f545-7ac3-4042-8652-12c59a216156)
+![Screenshot 2024-07-31 183212](https://github.com/user-attachments/assets/909881a8-4775-4b58-82be-b9d8c40c63b9)
+
 - Browse the list of available products on the main page.
 
 ### Sorting
@@ -71,16 +73,16 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 
 - Click on a product to view detailed information.
 
-![Card](https://github.com/shauryadhaka0027/useEffect/assets/138813918/07f1160a-ab89-431c-a90a-ed01c951f049)
+
 
 ### Shopping Cart
-
+![Screenshot 2024-07-31 183312](https://github.com/user-attachments/assets/6e1a2e84-1d4f-45d7-8eda-508bb5efb4c5)
 - Add products to the shopping cart using the "Add to Cart" button.
 - View items in the shopping cart on the cart page.
 - Remove items from the shopping cart.
 
 ### Checkout
-![payments](https://github.com/shauryadhaka0027/useEffect/assets/138813918/908af5fd-93f8-416a-85bf-f04727fb03aa)
+![Screenshot 2024-07-31 183337](https://github.com/user-attachments/assets/88604118-7536-4893-802b-805daef020b1)
 
 - Proceed to checkout from the shopping cart page.
 - Enter shipping and payment information.
