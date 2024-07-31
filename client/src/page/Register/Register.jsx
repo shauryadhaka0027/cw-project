@@ -20,7 +20,7 @@ const Register = () => {
   const onSubmitForm = (value) => {
     if(value.email){
       userSignUp.mutate(value,{onSuccess:(data)=>{
-        alert("signUp")
+       
         setIsSendOtp(true)
         form.resetFields()
       }})

@@ -12,7 +12,7 @@ import { DownOutlined } from '@ant-design/icons';
 
 const Navbar = () => {
   const navigate = useNavigate();
-  const { isAuth } = useZustand();
+  const { isAuth,setIsAuth } = useZustand();
   
 
   const handleLogin = () => {
@@ -22,7 +22,8 @@ const Navbar = () => {
   const handleLogout = () => {
   
     localStorage.clear();
-    navigate("/signUp");
+    setIsAuth(false)
+    navigate("/");
     notification.success({
       type:"success",
       message:"succesfully Logout"
