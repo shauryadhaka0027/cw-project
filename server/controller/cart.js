@@ -1,48 +1,43 @@
-import Cart from "../model/addToCart.js"
+import Cart from "../model/addToCart.js";
 
-export const addToCart=async(req,res)=>{
+const addToCart = async (req, res) => {
     try {
-        const response= new Cart(req.body)
-        await response.save()
-        res.status(201).json({Message:"Succesfully Added",data:response})
+        const response = new Cart(req.body);
+        await response.save();
+        res.status(201).json({ Message: "Successfully Added", data: response });
     } catch (error) {
-        res.status(error)
+        res.status(500).json({ Message: error.message });
     }
 }
 
-export const getAddToCartProduct=async(req,res)=>{
-   try {
-    const response=await Cart.find(req.body)
-    res.status(201).json({Message:"Succesfully Added",data:response})
-   } catch (error) {
-      res.status(500).json({Message:error})
-   }
+const getAddToCartProduct = async (req, res) => {
+    try {
+        const response = await Cart.find(req.body); // Ensure `req.body` is the correct query
+        res.status(200).json({ Message: "Successfully Retrieved", data: response });
+    } catch (error) {
+        res.status(500).json({ Message: error.message });
+    }
 }
 
-export const deleteItem=async(req,res)=>{
+const deleteItem = async (req, res) => {
     try {
-        const response=await Cart.findByIdAndDelete(req.body._id)
-        const respon=await Cart.find({adminId:req.body.adminId})
-        res.status(201).json({Message:"Succesfully remove",data:respon})
+        await Cart.findByIdAndDelete(req.body._id);
+        const response = await Cart.find({ adminId: req.body.adminId });
+        res.status(200).json({ Message: "Successfully Removed", data: response });
     } catch (error) {
-        
-        res.status(500).json({Message:error})
+        res.status(500).json({ Message: error.message });
     }
 }
-export const deleteManyItems = async (req, res) => {
+
+const deleteManyItems = async (req, res) => {
     try {
-      // Ensure the request body contains adminId and it's used correctly as a filter
-      const filter = { adminId: req.body.adminId };
-  
-      // Perform the deleteMany operation with the correct filter
-      const response = await Cart.deleteMany(filter);
-  
-      // Return a success response with the number of documents deleted
-      res.status(201).json({ Message: "Successfully removed", data: response });
+        const filter = { adminId: req.body.adminId };
+        const response = await Cart.deleteMany(filter);
+        res.status(200).json({ Message: "Successfully Removed", data: response });
     } catch (error) {
-      // Log the error and return a 500 status with the error message
-      console.error('Error in deleteManyItems:', error);
-      res.status(500).json({ Message: error.message });
+        console.error('Error in deleteManyItems:', error);
+        res.status(500).json({ Message: error.message });
     }
-  };
-  
+}
+
+export { deleteManyItems, deleteItem, getAddToCartProduct, addToCart };
