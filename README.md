@@ -1,4 +1,4 @@
-# E-Commerce Website
+# Sugar Cosmetic
 
 Welcome to our E-Commerce website! This platform allows users to browse and purchase products with various features including user authentication, product listing, sorting, product details, shopping cart management, and checkout functionality.
 
@@ -7,6 +7,7 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+  - [Backend Setup](#backend-setup)
 - [Usage](#usage)
   - [User Authentication](#user-authentication)
   - [Product Listing](#product-listing)
@@ -43,6 +44,7 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 
 ### Prerequisites
 - Node.js and npm installed on your machine.
+- MongoDB server running locally or remotely.
 
 ### Installation
 1. Clone the repository: 
@@ -60,6 +62,25 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 4. Start the application:
     ```bash
     npm run dev
+    ```
+
+### Backend Setup
+1. Navigate to the backend directory:
+    ```bash
+    cd backend
+    ```
+2. Install backend dependencies:
+    ```bash
+    npm install
+    ```
+3. Set up environment variables. Create a `.env` file in the `backend` directory and add the following variables:
+    ```env
+    MONGO_URI=your_mongodb_connection_string
+    JWT_SECRET=your_jwt_secret
+    ```
+4. Start the backend server:
+    ```bash
+    npm start
     ```
 
 ## Usage
