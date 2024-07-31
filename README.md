@@ -94,6 +94,8 @@ Welcome to our E-Commerce website! This platform allows users to browse and purc
 ### Product Listing
 ![Product Listing](https://github.com/user-attachments/assets/909881a8-4775-4b58-82be-b9d8c40c63b9)
 
+![Screenshot 2024-07-31 184944](https://github.com/user-attachments/assets/ed834f20-acfc-441c-9abb-70d86d97bb0e)
+
 - Browse the list of available products on the main page.
 
 ### Sorting
